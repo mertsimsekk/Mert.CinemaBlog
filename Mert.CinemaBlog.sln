@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.Shared", "Mert.CinemaBlog.Shared\Mert.CinemaBlog.Shared.csproj", "{28488A94-E9C7-45E4-9F98-56D66C080698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.Entities", "Mert.CinemaBlog.Entities\Mert.CinemaBlog.Entities.csproj", "{017236DC-E532-4638-A02D-FEC652176E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.Data", "Mert.CinemaBlog.Data\Mert.CinemaBlog.Data.csproj", "{0A113EA7-AF61-458C-970C-BF47CA336FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.Service", "Mert.CinemaBlog.Service\Mert.CinemaBlog.Service.csproj", "{AD5B4CE0-BA18-428C-80EE-02376DDA2EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.Model", "Mert.CinemaBlog.Model\Mert.CinemaBlog.Model.csproj", "{64E52319-B2D2-413E-A545-400BFF11B1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mert.CinemaBlog.API", "Mert.CinemaBlog.API\Mert.CinemaBlog.API.csproj", "{32465A7A-7E60-489A-8294-5950952C5885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28488A94-E9C7-45E4-9F98-56D66C080698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28488A94-E9C7-45E4-9F98-56D66C080698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28488A94-E9C7-45E4-9F98-56D66C080698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28488A94-E9C7-45E4-9F98-56D66C080698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017236DC-E532-4638-A02D-FEC652176E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017236DC-E532-4638-A02D-FEC652176E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017236DC-E532-4638-A02D-FEC652176E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017236DC-E532-4638-A02D-FEC652176E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A113EA7-AF61-458C-970C-BF47CA336FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A113EA7-AF61-458C-970C-BF47CA336FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A113EA7-AF61-458C-970C-BF47CA336FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A113EA7-AF61-458C-970C-BF47CA336FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5B4CE0-BA18-428C-80EE-02376DDA2EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5B4CE0-BA18-428C-80EE-02376DDA2EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5B4CE0-BA18-428C-80EE-02376DDA2EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5B4CE0-BA18-428C-80EE-02376DDA2EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E52319-B2D2-413E-A545-400BFF11B1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E52319-B2D2-413E-A545-400BFF11B1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E52319-B2D2-413E-A545-400BFF11B1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E52319-B2D2-413E-A545-400BFF11B1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32465A7A-7E60-489A-8294-5950952C5885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32465A7A-7E60-489A-8294-5950952C5885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32465A7A-7E60-489A-8294-5950952C5885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32465A7A-7E60-489A-8294-5950952C5885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B3595C-21DF-46BE-ABCE-D43F323587A3}
+	EndGlobalSection
+EndGlobal
